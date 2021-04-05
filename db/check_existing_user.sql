@@ -1,2 +1,2 @@
-select * from users
+select * from dragon
 where username = $1;
